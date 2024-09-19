@@ -1,0 +1,6 @@
+This is a reference list of commands to be used with Git and Github:
+* git clone [SSH/HTTPS link]: Clones a repository
+* git log : shows history of file changes
+* git status : sees the state of the current file
+* git add <file_name> : adds the file to the staging area
+* git commit -m "message" : "commiting a file"
